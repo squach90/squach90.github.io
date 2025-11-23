@@ -1,6 +1,6 @@
-* [Home](/)
+* [🏠 Home](/)
 * [🕹️ Game Boy](GameBoy/)
   * [🖥️ Emulator](GameBoy/Emulator/)
     * [⚙️ CPU](GameBoy/Emulator/CPU.md)
-  * [Games](GameBoy/Games/)
+  * [🎮 Games](GameBoy/Games/)
 * [🔵 ⚪ 🔴 Tempo Bot](TempoBot/)
