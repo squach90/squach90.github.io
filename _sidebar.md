@@ -1,4 +1,5 @@
 * [Home](/)
-* [Game Boy](GameBoy/)
+* [🕹️ Game Boy](GameBoy/)
   * [🖥️ Emulator](GameBoy/Emulator/)
+    * [⚙️ CPU](GameBoy/Emulator/CPU.md)
   * [Games](GameBoy/Games/)
