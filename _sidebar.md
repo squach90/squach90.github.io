@@ -3,3 +3,4 @@
   * [🖥️ Emulator](GameBoy/Emulator/)
     * [⚙️ CPU](GameBoy/Emulator/CPU.md)
   * [Games](GameBoy/Games/)
+* [🔵 ⚪ 🔴 Tempo Bot](TempoBot/)
