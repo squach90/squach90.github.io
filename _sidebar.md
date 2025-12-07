@@ -4,4 +4,5 @@
     * [⚙️ CPU](GameBoy/Emulator/CPU.md)
   * [🎮 Games](GameBoy/Games/)
     * [🆚 ASM Vs C](GameBoy/Games/ASM-VS-C.md)
+    * [🐍 Snake with GBDK](GameBoy/Games/Snake.md)
 * [🔵 ⚪ 🔴 Tempo Bot](TempoBot/)
