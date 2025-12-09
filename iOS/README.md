@@ -1,3 +1,3 @@
 # iOS 📱
 
-- [📱 Create your own iPhone icons pack (iOS)](./IconsSetup.md)
+- [📱 Create your own iPhone icons pack (iOS)](iOS/IconsSetup.md)
