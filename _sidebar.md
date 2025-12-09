@@ -5,6 +5,6 @@
   * [🎮 Games](GameBoy/Games/)
     * [🆚 ASM Vs C](GameBoy/Games/ASM-VS-C.md)
     * [🐍 Snake with GBDK](GameBoy/Games/Snake.md)
-  * [📱 iOS](iOS/)
-    * [📱 Create your own iPhone icons pack (iOS)](iOS/IconsSetup.md)
+* [📱 iOS](iOS/)
+  * [📱 Create your own iPhone icons pack (iOS)](iOS/IconsSetup.md)
 * [🔵 ⚪ 🔴 Tempo Bot](TempoBot/)
