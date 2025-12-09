@@ -28,7 +28,7 @@ Go to [Base64 converter](https://jam.dev/utilities/image-to-base64) and upload a
 When you put your icon in an converter you will have something that starts like this:
 
 ```base64
-data:image/png;base64,iVBORw0KGgoAAAANSUh
+data:image/png;base64,iVBORw0KGgoAAAANSUh 
 ```
 
 So copy it and save it in a .txt file or whatever (we need it later).
