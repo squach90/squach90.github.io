@@ -245,7 +245,7 @@ Paste this into a new file named YourPackIcon.mobileconfig
 </plist>
 ```
 
-This is mine [Download Here](Maps.mobileconfig)
+This is mine [Download Here](../iOS/Maps.mobileconfig)
 
 ## Install the `.mobileconfig`
 
