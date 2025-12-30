@@ -2,14 +2,14 @@
 
 A classic Snake game developed in C with [GBDK-2020](https://github.com/gbdk-2020/gbdk-2020) for the Game Boy.
 
-![Gameplay](https://github.com/squach90/snake-gb/blob/main/README-Assets/gameplay.gif?raw=true)
+![Gameplay](https://github.com/wirenux/snake-gb/blob/main/README-Assets/gameplay.gif?raw=true)
 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/squach90/snake-gb/blob/main/README-Assets/mainmenu.png?raw=true" alt="Main Menu" width="400"/>
-  <img src="https://github.com/squach90/snake-gb/blob/main/README-Assets/gameplay.gif?raw=true" alt="Gameplay" width="400"/>
-  <img src="https://github.com/squach90/snake-gb/blob/main/README-Assets/gameover.png?raw=true" alt="Game Over" width="400"/>
+  <img src="https://github.com/wirenux/snake-gb/blob/main/README-Assets/mainmenu.png?raw=true" alt="Main Menu" width="400"/>
+  <img src="https://github.com/wirenux/snake-gb/blob/main/README-Assets/gameplay.gif?raw=true" alt="Gameplay" width="400"/>
+  <img src="https://github.com/wirenux/snake-gb/blob/main/README-Assets/gameover.png?raw=true" alt="Game Over" width="400"/>
 </div>
 
 ## 🎮 Features
@@ -38,7 +38,7 @@ A classic Snake game developed in C with [GBDK-2020](https://github.com/gbdk-202
 ### Instructions
 
 ```bash
-git clone https://github.com/squach90/snake-gb.git
+git clone https://github.com/wirenux/snake-gb.git
 make
 ```
 
@@ -94,9 +94,9 @@ The game uses custom tiles for:
 
 ### Boring stuff
 
-This project is released under the [Unlicense](https://github.com/squach90/snake-gb/blob/main/UNLICENSE).
+This project is released under the [Unlicense](https://github.com/wirenux/snake-gb/blob/main/UNLICENSE).
 
-**Developed with ❤️ by [@squach90](https://github.com/squach90)**
+**Developed with ❤️ by [@squach90](https://github.com/wirenux)**
 
 ---
 

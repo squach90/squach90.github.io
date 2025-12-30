@@ -14,8 +14,8 @@ In this project I'm going to use [RGBDS](https://rgbds.gbdev.io/) and [GDBK-2020
 
 This project contains **2 Hello World programs** (1 in ASM and 1 in C):
 
-1. [`main.asm`](https://github.com/squach90/ASM-VS-C-GB/blob/main/Asm/main.asm) → written in **Assembly with RGBDS**
-2. [`main.c`](https://github.com/squach90/ASM-VS-C-GB/blob/main/C/main.c) → written in **C using GBDK**
+1. [`main.asm`](https://github.com/wirenux/ASM-VS-C-GB/blob/main/Asm/main.asm) → written in **Assembly with RGBDS**
+2. [`main.c`](https://github.com/wirenux/ASM-VS-C-GB/blob/main/C/main.c) → written in **C using GBDK**
 
 ---
 
@@ -42,11 +42,11 @@ To get ASM file to `16Kb` i've used some technics.
 
 2nd, with `GBDK` when you do a `printf("some text")` he will import `101` tiles to get all symbols needed (see image). So if you define your own font (tiles) you can reduce the size of the final file.
 
-![GBDK Font Import](https://github.com/squach90/ASM-VS-C-GB/raw/main/Assets/GBDKFont.png)
+![GBDK Font Import](https://github.com/wirenux/ASM-VS-C-GB/raw/main/Assets/GBDKFont.png)
 
 Here is my own font to print `Hello World`:
 
-![My Light Font](https://github.com/squach90/ASM-VS-C-GB/raw/main/Assets/LightFont.png)
+![My Light Font](https://github.com/wirenux/ASM-VS-C-GB/raw/main/Assets/LightFont.png)
 
 ---
 
@@ -55,10 +55,10 @@ Here is my own font to print `Hello World`:
 As you can tell there is literally no difference (graphically) between the C and ASM ROM:
 
 `ASM`
-![ASM](https://github.com/squach90/ASM-VS-C-GB/raw/main/Assets/ASMScreen.png)
+![ASM](https://github.com/wirenux/ASM-VS-C-GB/raw/main/Assets/ASMScreen.png)
 
 `C`
-![C](https://github.com/squach90/ASM-VS-C-GB/raw/main/Assets/CScreen.png)
+![C](https://github.com/wirenux/ASM-VS-C-GB/raw/main/Assets/CScreen.png)
 
 ---
 
@@ -73,7 +73,7 @@ As you can tell there is literally no difference (graphically) between the C and
 ### Compile ASM
 
 ```bash
-git clone https://github.com/squach90/ASM-VS-C-GB.git
+git clone https://github.com/wirenux/ASM-VS-C-GB.git
 cd ASM-VS-C-GB
 make
 ```
@@ -85,14 +85,14 @@ Explanation :
 `rgblink` -> links `asm.o` into a GB ROM
 `rgbfix`  -> fixes the header and ensures correct size
 
-[View ASM source code](https://github.com/squach90/ASM-VS-C-GB/blob/main/Asm/main.asm)
+[View ASM source code](https://github.com/wirenux/ASM-VS-C-GB/blob/main/Asm/main.asm)
 
-[View Makefile](https://github.com/squach90/ASM-VS-C-GB/blob/main/Makefile)
+[View Makefile](https://github.com/wirenux/ASM-VS-C-GB/blob/main/Makefile)
 
 ### Compile C
 
 ```bash
-git clone https://github.com/squach90/ASM-VS-C-GB.git
+git clone https://github.com/wirenux/ASM-VS-C-GB.git
 cd ASM-VS-C-GB
 make hello-c.gb
 ```
@@ -102,9 +102,9 @@ Then run the ROMs with Emulicious or any Game Boy emulator to see the result.
 Explanation :
 `lcc` -> compiles `main.c` into a GB ROM
 
-[View C source code](https://github.com/squach90/ASM-VS-C-GB/blob/main/C/main.c)
+[View C source code](https://github.com/wirenux/ASM-VS-C-GB/blob/main/C/main.c)
 
-[View Makefile](https://github.com/squach90/ASM-VS-C-GB/blob/main/Makefile)
+[View Makefile](https://github.com/wirenux/ASM-VS-C-GB/blob/main/Makefile)
 
 ---
 
@@ -120,8 +120,8 @@ C works perfectly fine and I definitely recommend it for ease of use, but ASM is
 
 ### Boring stuff
 
-This project is released under the [Unlicense](https://github.com/squach90/ASM-VS-C-GB/blob/main/UNLICENSE).
+This project is released under the [Unlicense](https://github.com/wirenux/ASM-VS-C-GB/blob/main/UNLICENSE).
 
-Created by [@squach90](https://github.com/squach90)
+Created by [@wirenux](https://github.com/wirenux)
 
-Read more on [my blog](https://squach90.github.io)
+Read more on [my blog](https://wirenux.github.io)
