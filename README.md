@@ -1,10 +1,10 @@
-# I'm @squach90
+# I'm @wirenux
 
 <h3 align="center">hey there 👋</h3>
 
 ### 👩‍💻  About Me
 
-I'm **Louis Lesniak** (@squach90) from France<br>- 🔭 I’m working at : an GameBoy Emulator<br>- 📚 I'm currently learning a lot of things 🧢<br>- ⚡ In my free time I code
+I'm **Louis Lesniak** (@wirenux) from France<br>- 🔭 I’m working at : an GameBoy Emulator<br>- 📚 I'm currently learning a lot of things 🧢<br>- ⚡ In my free time I code
 
 ### 🛠 Language and tools
 

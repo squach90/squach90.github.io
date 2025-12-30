@@ -15,7 +15,7 @@
             <string>com.apple.webClip.managed</string>
 
             <key>PayloadIdentifier</key>
-            <string>com.squach90.webclip.maps</string>
+            <string>com.wirenux.webclip.maps</string>
 
             <key>PayloadUUID</key>
             <string>d899a58a-b208-4a1e-b26e-12bb91d4fa25</string>
@@ -49,7 +49,7 @@
 
     <!-- Profile metadata -->
     <key>PayloadIdentifier</key>
-    <string>com.squach90.webclip.Maps</string>
+    <string>com.wirenux.webclip.Maps</string>
 
     <key>PayloadDisplayName</key>
     <string>Maps Icon</string>

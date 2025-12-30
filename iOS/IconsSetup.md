@@ -145,9 +145,9 @@ is basically like a "namespace" for your icon.
 Examples:
 
 ```xml
-com.squach90.webclip.spotify
-com.squach90.webclip.discord
-com.squach90.webclip.youtube
+com.wirenux.webclip.spotify
+com.wirenux.webclip.discord
+com.wirenux.webclip.youtube
 ```
 
 Each icon must have its own PayloadIdentifier.
@@ -287,4 +287,4 @@ Have fun creating your icons and giving your iPhone a fresh, unique look!
 You can find some `.mobileconfig` file here : [W-Clan](https://wallpapers-clan.com/app-icons/)
 And and `.mobileconfig` exemple file here (to get retro icon like iOS 6): [iOS 6 icons](https://wallpapers-clan.com/wp-content/uploads/app-icons/retro-ios-app-icons.mobileconfig)
 
-**Developed with ❤️ by [@squach90](https://github.com/squach90)**
+**Developed with ❤️ by [@wirenux](https://github.com/wirenux)**
